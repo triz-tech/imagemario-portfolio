@@ -61,3 +61,4 @@ export function FilterableGallery({
     </div>
   )
 }
+// ui improvements
