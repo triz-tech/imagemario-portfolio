@@ -105,4 +105,4 @@ export function Navbar() {
     </>
   )
 }
-// animation effect
+// animation effe
