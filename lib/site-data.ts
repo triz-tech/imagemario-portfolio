@@ -1,23 +1,3 @@
-/*
- * =============================================
- *  IMAGEMARIO — Dados do Site
- * =============================================
- *
- *  Edite este arquivo para alterar TODOS os textos,
- *  projetos, links e informacoes de contato do site.
- *
- *  Dicas:
- *  - Para trocar imagens, substitua os arquivos na pasta /public/images/
- *    mantendo os mesmos nomes, OU altere os caminhos abaixo.
- *  - Para adicionar um projeto novo, basta copiar um bloco
- *    e alterar os campos.
- *  - O campo "slug" define o endereco da pagina do projeto.
- *    Ex: slug "residencia-jardim-botanico" vira /arquitetura/residencia-jardim-botanico
- *  - O campo "imagens" aceita quantas fotos voce quiser.
- *    A primeira imagem e usada como capa na galeria.
- */
-
-// ─── Informacoes gerais ─────────────────────────────
 
 export const siteConfig = {
   nome: "Imagemario",
@@ -30,7 +10,7 @@ export const siteConfig = {
   pais: "Brasil",
 }
 
-// ─── Contato ────────────────────────────────────────
+
 
 export const contato = {
   email: "mariosergiomartins2021@gmail.com",
@@ -39,15 +19,13 @@ export const contato = {
   endereco: "Rio de Janeiro, RJ — Brasil",
 }
 
-// ─── Redes Sociais ──────────────────────────────────
+
 
 export const redesSociais = {
   instagram: "https://www.instagram.com/",
   linkedin: "https://www.linkedin.com/",
   behance: "https://www.behance.net/",
 }
-
-// ─── Links de Navegacao ─────────────────────────────
 
 export const navegacao = [
   { href: "/", label: "Home" },
