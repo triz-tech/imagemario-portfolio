@@ -158,3 +158,4 @@ export function CTASection() {
     </section>
   )
 }
+ // mobile gallery layout
