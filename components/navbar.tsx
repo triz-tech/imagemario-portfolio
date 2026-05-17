@@ -105,4 +105,4 @@ export function Navbar() {
     </>
   )
 }
- // responsive adjustments
+// contact section
